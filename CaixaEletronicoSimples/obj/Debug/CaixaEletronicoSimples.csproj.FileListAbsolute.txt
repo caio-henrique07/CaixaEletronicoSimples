@@ -1,0 +1,10 @@
+C:\Users\RA2457041\source\repos\caio-henrique07\CaixaEletronicoSimples\source\reposCaixa\CaixaEletronicoSimples\CaixaEletronicoSimples\bin\Debug\CaixaEletronicoSimples.exe.config
+C:\Users\RA2457041\source\repos\caio-henrique07\CaixaEletronicoSimples\source\reposCaixa\CaixaEletronicoSimples\CaixaEletronicoSimples\bin\Debug\CaixaEletronicoSimples.exe
+C:\Users\RA2457041\source\repos\caio-henrique07\CaixaEletronicoSimples\source\reposCaixa\CaixaEletronicoSimples\CaixaEletronicoSimples\bin\Debug\CaixaEletronicoSimples.pdb
+C:\Users\RA2457041\source\repos\caio-henrique07\CaixaEletronicoSimples\source\reposCaixa\CaixaEletronicoSimples\CaixaEletronicoSimples\obj\Debug\CaixaEletronicoSimples.csproj.AssemblyReference.cache
+C:\Users\RA2457041\source\repos\caio-henrique07\CaixaEletronicoSimples\source\reposCaixa\CaixaEletronicoSimples\CaixaEletronicoSimples\obj\Debug\CaixaEletronicoSimples.Form1.resources
+C:\Users\RA2457041\source\repos\caio-henrique07\CaixaEletronicoSimples\source\reposCaixa\CaixaEletronicoSimples\CaixaEletronicoSimples\obj\Debug\CaixaEletronicoSimples.Properties.Resources.resources
+C:\Users\RA2457041\source\repos\caio-henrique07\CaixaEletronicoSimples\source\reposCaixa\CaixaEletronicoSimples\CaixaEletronicoSimples\obj\Debug\CaixaEletronicoSimples.csproj.GenerateResource.cache
+C:\Users\RA2457041\source\repos\caio-henrique07\CaixaEletronicoSimples\source\reposCaixa\CaixaEletronicoSimples\CaixaEletronicoSimples\obj\Debug\CaixaEletronicoSimples.csproj.CoreCompileInputs.cache
+C:\Users\RA2457041\source\repos\caio-henrique07\CaixaEletronicoSimples\source\reposCaixa\CaixaEletronicoSimples\CaixaEletronicoSimples\obj\Debug\CaixaEletronicoSimples.exe
+C:\Users\RA2457041\source\repos\caio-henrique07\CaixaEletronicoSimples\source\reposCaixa\CaixaEletronicoSimples\CaixaEletronicoSimples\obj\Debug\CaixaEletronicoSimples.pdb
