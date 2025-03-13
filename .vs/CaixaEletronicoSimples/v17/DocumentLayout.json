@@ -1,7 +1,24 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\RA2457041\\source\\repos\\caio-henrique07\\CaixaEletronicoSimples\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\RA2457041\\source\\repos\\caio-henrique07\\CaixaEletronicoSimples\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01461A9A-FBBE-4916-995E-7ED63E3AA357}|CaixaEletronicoSimples\\CaixaEletronicoSimples.csproj|c:\\users\\ra2457041\\source\\repos\\caio-henrique07\\caixaeletronicosimples\\caixaeletronicosimples\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01461A9A-FBBE-4916-995E-7ED63E3AA357}|CaixaEletronicoSimples\\CaixaEletronicoSimples.csproj|solutionrelative:caixaeletronicosimples\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01461A9A-FBBE-4916-995E-7ED63E3AA357}|CaixaEletronicoSimples\\CaixaEletronicoSimples.csproj|C:\\Users\\RA2457041\\source\\repos\\caio-henrique07\\CaixaEletronicoSimples\\caixaeletronicosimples\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01461A9A-FBBE-4916-995E-7ED63E3AA357}|CaixaEletronicoSimples\\CaixaEletronicoSimples.csproj|solutionrelative:caixaeletronicosimples\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01461A9A-FBBE-4916-995E-7ED63E3AA357}|CaixaEletronicoSimples\\CaixaEletronicoSimples.csproj|C:\\Users\\RA2457041\\source\\repos\\caio-henrique07\\CaixaEletronicoSimples\\caixaeletronicosimples\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{01461A9A-FBBE-4916-995E-7ED63E3AA357}|CaixaEletronicoSimples\\CaixaEletronicoSimples.csproj|solutionrelative:caixaeletronicosimples\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,11 +26,62 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": ".gitignore",
+              "DocumentMoniker": "C:\\Users\\RA2457041\\source\\repos\\caio-henrique07\\CaixaEletronicoSimples\\.gitignore",
+              "RelativeDocumentMoniker": ".gitignore",
+              "ToolTip": "C:\\Users\\RA2457041\\source\\repos\\caio-henrique07\\CaixaEletronicoSimples\\.gitignore",
+              "RelativeToolTip": ".gitignore",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-03-13T12:40:15.643Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\RA2457041\\source\\repos\\caio-henrique07\\CaixaEletronicoSimples\\CaixaEletronicoSimples\\Form1.cs",
+              "RelativeDocumentMoniker": "CaixaEletronicoSimples\\Form1.cs",
+              "ToolTip": "C:\\Users\\RA2457041\\source\\repos\\caio-henrique07\\CaixaEletronicoSimples\\CaixaEletronicoSimples\\Form1.cs",
+              "RelativeToolTip": "CaixaEletronicoSimples\\Form1.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAuwA8AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T12:36:08.537Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\RA2457041\\source\\repos\\caio-henrique07\\CaixaEletronicoSimples\\CaixaEletronicoSimples\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "CaixaEletronicoSimples\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\RA2457041\\source\\repos\\caio-henrique07\\CaixaEletronicoSimples\\CaixaEletronicoSimples\\Form1.Designer.cs",
+              "RelativeToolTip": "CaixaEletronicoSimples\\Form1.Designer.cs",
+              "ViewState": "AgIAAGYAAAAAAAAAAAAqwH4AAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T12:35:18.249Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\RA2457041\\source\\repos\\caio-henrique07\\CaixaEletronicoSimples\\CaixaEletronicoSimples\\Form1.cs",
+              "RelativeDocumentMoniker": "CaixaEletronicoSimples\\Form1.cs",
+              "ToolTip": "C:\\Users\\RA2457041\\source\\repos\\caio-henrique07\\CaixaEletronicoSimples\\CaixaEletronicoSimples\\Form1.cs [Design]",
+              "RelativeToolTip": "CaixaEletronicoSimples\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T12:35:13.167Z",
+              "EditorCaption": " [Design]"
             }
           ]
         }
